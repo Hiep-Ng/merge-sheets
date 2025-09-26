@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual Environments ----
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE settings ----
+.vscode/
+.idea/
+
+# ---- Logs ----
+*.log
+
+# ---- Others ----
+*.sqlite3
+*.db
+
+service-account.json
