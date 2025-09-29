@@ -31,3 +31,5 @@ Thumbs.db
 *.db
 
 service-account.json
+
+processed_files.json
